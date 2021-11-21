@@ -114,3 +114,69 @@ h1 {
     line-height: 68px;
     color: #1D253C;
 }
+.second-block {
+    background-color:#F9F5F2;
+}
+.future {
+    display:flex;
+    justify-content: space-between;
+    width: 1100px;
+    margin: auto;
+    padding: 85.37px 0 84.63px;
+}
+.img-in-second-block {
+    padding: 31px 43px 32px 43px;
+    background-color: white;
+}
+.table p {
+    margin: 0;
+    margin-top: 20px;
+    font-family: 'Work Sans',sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #5A6482;
+}
+#head-phrase {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #F46752;
+    margin: 0;
+    margin-bottom: 26px;
+}
+.secure-your-future h2 {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 52px;
+    color: #1D253C;
+    margin: 0;
+    margin-bottom: 19px;
+}
+#life-insurance {
+    font-family: 'Work Sans',sans-serif;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 30px;
+    color: #5A6482;
+    margin: 0;
+    margin-bottom: 32px;
+}
+.secure-your-future {
+    width: 456px;
+    height: 309.5px;
+    margin: 82.62px 0 82.38px 0;
+}
+#get-my-price {
+    font-family: 'Work Sans',sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    text-transform: capitalize;
+    color: #126F86;
+    margin: 0;
+}
