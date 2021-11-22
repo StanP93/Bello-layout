@@ -2,6 +2,10 @@
     font-family: "Work Sans";
     src: url(../Bello/assets/fonts/Work_Sans/WorkSans-VariableFont_wght.ttf);
 }
+@font-face {
+    font-family: "Roboto";
+    src: url(../Bello/assets/fonts/Roboto/Roboto-Regular.ttf);
+}
 body {
     padding: 0;
     margin: 0;
@@ -137,7 +141,7 @@ h1 {
     line-height: 19px;
     color: #5A6482;
 }
-#head-phrase {
+.head-phrase {
     font-family: 'Work Sans', sans-serif;
     font-weight: 600;
     font-size: 14px;
@@ -179,4 +183,58 @@ h1 {
     text-transform: capitalize;
     color: #126F86;
     margin: 0;
+}
+.technology-meets-service {
+    display: flex;
+    justify-content: space-between;
+    width: 1100px;
+    margin: auto;
+    position: relative;
+}
+.we-are-here {
+    margin-top: 274.62px;
+    margin-bottom: 289.87px;
+    width: 456px;
+    height: 257.5px;
+}
+.we-are-here h2 {
+    font-family: 'Work Sans',sans-serif;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 52px;
+    color: #1D253C;
+}
+#bella {
+    font-family: 'Work Sans',sans-serif;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 30px;
+    color: #5A6482;
+}
+#get-help {
+    font-family: 'Roboto',sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #126F86;
+}
+.technology-meets-service button {
+    position: absolute;
+    width: 326px;
+    height: 67px;
+    background: #FFFFFF;
+    box-shadow: 3px 4px 34px rgba(66, 71, 77, 0.11);
+    border-radius: 5px;
+    font-family: 'Work Sans',sans-serif;
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 28px;
+    color: #1D253C;
+    border: none;
+    top: 616px;
+    left: 498px;
+}
+.img-in-third-block {
+    margin-top: 148px;
+    margin-bottom: 164px;
 }
