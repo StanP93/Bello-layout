@@ -238,3 +238,75 @@ h1 {
     margin-top: 148px;
     margin-bottom: 164px;
 }
+.fourth-block {
+    position: relative;
+    background: #F8F8F8;
+}
+.wrapper {
+    width: 1100px;
+    margin: auto;
+}
+.you-are-in-safe {
+    text-align: center;
+}
+.you-are-in-safe img {
+    position: absolute;
+    left: 500px;
+    top: -110px;
+}
+#top-rated {
+    font-family: 'Work Sans',sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #F46752;
+    margin: 0;
+    padding-top: 91px;
+}
+.you-are-in-safe h2 {
+    font-family: 'Work Sans',sans-serif;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 52px;
+    color: #1D253C;
+}
+#partner {
+    font-family: 'Work Sans',sans-serif;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 30px;
+    text-align: center;
+    color: #5A6482;
+}
+.three-table {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin: auto;
+    margin-top: 41px;
+    padding-bottom: 85px;
+}
+.just-table {
+    width: 320px;
+    height: 310px;
+    background-color: #FFFFFF;
+}
+.three-table h3 {
+    font-family: 'Work Sans',sans-serif;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 26px;
+    text-align: center;
+    color: #1D253C;
+}
+.three-table p {
+    font-family: 'Work Sans',sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #5A6482;
+}
