@@ -529,3 +529,103 @@ h1 {
     color: white;
     margin: 0 615px 85px 615px;
 }
+.last-block ul{
+    list-style-type: none;
+}
+.wrapper-eight {
+    width: 1130px;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+}
+.three-ul {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 73px;
+    width: 580px;
+}
+.wrapper-eight p {
+    font-family: 'Roboto',sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 23px;
+    color: #5A6482;
+    width: 320px;
+    margin-bottom: 22px;
+}
+input {
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    box-sizing: border-box;
+    border-radius: 3px;
+    width: 300px;
+    height: 60px;
+}
+.wrapper-eight button {
+    position: absolute;
+    left: 371px;
+    border: none;
+    background: #126F85;
+    border-radius: 0px 5px 5px 0px;
+    width: 84px;
+    height: 60px;
+    text-transform: capitalize;
+    font-family: 'Work Sans',sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+.social-nets {
+    display: flex;
+    margin: 25px 0 40px 0;
+    padding: 0;
+}
+.social-nets li {
+    margin-right: 34px;
+}
+.three-ul li:first-child {
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #1D253C;
+}
+.three-ul li {
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #5A6482;
+    margin-bottom: 19px;
+}
+footer {
+    display: flex;
+    background: #F8F8F8;
+    height: 80px;
+}
+footer div {
+    display: flex;
+    width: 1100px;
+    justify-content: space-between;
+    font-family: 'Roboto',sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #5A6482;
+    margin: auto;
+}
+.get-my-price-footer {
+    border: 1px solid rgba(29, 37, 60, 0.2);
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-family: 'Roboto',sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #1D253C;
+    width: 161px;
+    height: 44px;
+}
