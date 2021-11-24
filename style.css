@@ -86,7 +86,7 @@ nav {
     border: 1px solid rgba(29, 37, 60, 0.2);
     box-sizing: border-box;
     border-radius: 4px;
-    font-family: Work Sans;
+    font-family: 'Work Sans',sans-serif;
     font-weight: 600;
     font-size: 16px;
     line-height: 19px;
@@ -458,4 +458,74 @@ h1 {
     font-size: 18px;
     line-height: 22px;
     color: #007189;
+}
+.seventh-block {
+    display: flex;
+    width: 1100px;
+    margin: auto;
+    justify-content: space-between;
+    margin-top: 160.83px;
+    margin-bottom: 132.38px;
+    text-align: center;
+}
+.block-in-seventh {
+    width: 260px;
+    height: 323px;
+}
+.seventh-block h3 {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+    font-size: 34px;
+    line-height: 42px;
+}
+.seventh-block p {
+    font-family: 'Work Sans',sans-serif;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 19px;
+    color: #5A6482;
+    margin-top: 65px;
+    margin-bottom: 90px;
+}
+.seventh-block a {
+    text-decoration: none;
+    font-family: 'Work Sans',sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+}
+.eighth-block h2 {
+    font-family: 'Work Sans',sans-serif;
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 52px;
+    text-align: center;
+    color: #1D253C;
+    padding: 107px 0 8px 0;
+    margin: 0;
+}
+.eighth-block p {
+    font-family: 'Work Sans',sans-serif;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 30px;
+    text-align: center;
+    color: #676562;
+    margin: 0;
+    padding-bottom: 39px;
+}
+.eighth-block button {
+    width: 220px;
+    height: 61px;
+    text-transform: uppercase;
+    background: #F46752;
+    border: 1px solid rgba(29, 37, 60, 0.2);
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-family: 'Work Sans',sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    color: white;
+    margin: 0 615px 85px 615px;
 }
